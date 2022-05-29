@@ -1,0 +1,42 @@
+Minifying 8 ./data/nerf_llff_data/bottle
+mogrify -resize 12.5% -format png *.jpg
+Removed duplicates
+Done
+Loaded image data (98, 130, 3, 23) [ 98.         130.         112.54562545]
+Loaded ./data/nerf_llff_data/bottle 11.307243323857316 31.709440606748622
+recentered (3, 5)
+[[ 1.0000000e+00  2.9288016e-09 -1.8002864e-09 -1.2957532e-09]
+ [-2.9288016e-09  1.0000000e+00 -2.1276112e-09 -6.4787659e-10]
+ [ 1.8002864e-09  2.1276112e-09  1.0000000e+00 -4.0492287e-11]]
+Data:
+(23, 3, 5) (23, 98, 130, 3) (23, 2)
+HOLDOUT view is 20
+Loaded llff (23, 98, 130, 3) (120, 3, 5) [ 98.      130.      112.54562] ./data/nerf_llff_data/bottle
+Auto LLFF holdout, 8
+DEFINING BOUNDS
+NEAR FAR 0.0 1.0
+Found ckpts []
+get rays
+done, concats
+shuffle rays
+done
+Begin
+TRAIN views are [ 1  2  3  4  5  6  7  9 10 11 12 13 14 15 17 18 19 20 21 22]
+TEST views are [ 0  8 16]
+VAL views are [ 0  8 16]
+0 200001
+HELLOO
+  0% 4/200000 [00:00<8:41:10,  6.40it/s]
+
+
+
+
+
+
+
+
+
+
+
+
+

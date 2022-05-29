@@ -1,0 +1,153 @@
+wandb_version: 1
+
+N_importance:
+  desc: null
+  value: 64
+N_rand:
+  desc: null
+  value: 1024
+N_samples:
+  desc: null
+  value: 64
+_wandb:
+  desc: null
+  value:
+    cli_version: 0.12.15
+    framework: torch
+    is_jupyter_run: false
+    is_kaggle_kernel: false
+    python_version: 3.8.10
+    start_time: 1651495928
+    t:
+      1:
+      - 1
+      - 55
+      3:
+      - 16
+      4: 3.8.10
+      5: 0.12.15
+      8:
+      - 5
+basedir:
+  desc: null
+  value: ./logs
+chunk:
+  desc: null
+  value: 32768
+config:
+  desc: null
+  value: configs/headphones.txt
+datadir:
+  desc: null
+  value: ./data/nerf_llff_data/headphones
+dataset_type:
+  desc: null
+  value: llff
+expname:
+  desc: null
+  value: headphones
+factor:
+  desc: null
+  value: 8
+ft_path:
+  desc: null
+  value: null
+half_res:
+  desc: null
+  value: false
+i_embed:
+  desc: null
+  value: 0
+i_img:
+  desc: null
+  value: 500
+i_print:
+  desc: null
+  value: 100
+i_testset:
+  desc: null
+  value: 50000
+i_video:
+  desc: null
+  value: 50000
+i_weights:
+  desc: null
+  value: 10000
+lindisp:
+  desc: null
+  value: false
+llffhold:
+  desc: null
+  value: 8
+lrate:
+  desc: null
+  value: 0.0005
+lrate_decay:
+  desc: null
+  value: 250
+multires:
+  desc: null
+  value: 10
+multires_views:
+  desc: null
+  value: 4
+netchunk:
+  desc: null
+  value: 65536
+netdepth:
+  desc: null
+  value: 8
+netdepth_fine:
+  desc: null
+  value: 8
+netwidth:
+  desc: null
+  value: 256
+netwidth_fine:
+  desc: null
+  value: 256
+no_batching:
+  desc: null
+  value: false
+no_ndc:
+  desc: null
+  value: false
+no_reload:
+  desc: null
+  value: false
+perturb:
+  desc: null
+  value: 1.0
+precrop_frac:
+  desc: null
+  value: 0.5
+precrop_iters:
+  desc: null
+  value: 0
+raw_noise_std:
+  desc: null
+  value: 1.0
+render_factor:
+  desc: null
+  value: 0
+render_only:
+  desc: null
+  value: false
+render_test:
+  desc: null
+  value: false
+shape:
+  desc: null
+  value: greek
+spherify:
+  desc: null
+  value: false
+testskip:
+  desc: null
+  value: 8
+use_viewdirs:
+  desc: null
+  value: true
+white_bkgd:
+  desc: null
+  value: false

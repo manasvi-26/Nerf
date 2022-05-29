@@ -1,0 +1,1 @@
+{"train/psnr": 19.201723098754883, "train/loss": 0.024035755544900894, "_timestamp": 1653756177, "_runtime": 29314, "_step": 2003, "Intermediate Videos": {"_type": "video-file", "sha256": "b510c031cdcefdcc7d45cecfccb1dd9e76a6c5126101d48e513a955be14cd086", "size": 2850, "path": "media/videos/Intermediate Videos_2002_b510c031cdcefdcc7d45.mp4"}, "_wandb": {"runtime": 29314}}

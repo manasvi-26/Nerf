@@ -1,0 +1,27 @@
+{
+    "os": "Linux-4.15.0-107-generic-x86_64-with-glibc2.17",
+    "python": "3.8.10",
+    "heartbeatAt": "2022-05-03T19:36:51.591473",
+    "startedAt": "2022-05-03T19:36:29.859345",
+    "docker": null,
+    "gpu": "GeForce GTX 1080 Ti",
+    "gpu_count": 1,
+    "cpu_count": 40,
+    "cuda": "10.2.89",
+    "args": [
+        "--config",
+        "configs/bottle.txt"
+    ],
+    "state": "running",
+    "program": "/home2/mehul.mathur/nerf/run_nerf.py",
+    "codePath": "run_nerf.py",
+    "git": {
+        "remote": "https://github.com/yenchenlin/nerf-pytorch.git",
+        "commit": "a15fd7cb363e93f933012fd1f1ad5395302f63a4"
+    },
+    "email": null,
+    "root": "/home2/mehul.mathur/nerf",
+    "host": "gnode41",
+    "username": "mehul.mathur",
+    "executable": "/home2/mehul.mathur/nerf/Nerf/bin/python3"
+}

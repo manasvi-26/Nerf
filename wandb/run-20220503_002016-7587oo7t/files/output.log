@@ -1,0 +1,5 @@
+Minifying 4 ./data/nerf_llff_data/bottles
+mogrify -resize 25.0% -format png *.jpg
+Removed duplicates
+Done
+Mismatch between imgs 24 and poses 23 !!!!

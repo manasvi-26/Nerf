@@ -1,0 +1,1 @@
+{"Intermediate Videos": {"_type": "video-file", "sha256": "4bb13819e781f5dd274b23ba345a8938a587a4dd1088fc07707198d4978027fe", "size": 221265, "path": "media/videos/Intermediate Videos_0_4bb13819e781f5dd274b.mp4"}, "_timestamp": 1651389379, "_runtime": 961, "_step": 5, "train/psnr": 10.628652572631836, "train/loss": 0.176720529794693}
